@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://xgibox.github.io/AudiWorld/index.html</loc>
+		<lastmod>2024-03-20</lastmod>
+		<changefreq>Daily</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://xgibox.github.io/AudiWorld/expertise.html</loc>
+		<lastmod>2024-03-25</lastmod>
+		<changefreq>Monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://xgibox.github.io/AudiWorld/contact.html</loc>
+		<lastmod>2024-03-26</lastmod>
+		<changefreq>Monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://xgibox.github.io/AudiWorld/about.html</loc>
+		<lastmod>2024-03-20</lastmod>
+		<changefreq>Yearly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://xgibox.github.io/AudiWorld/author.html</loc>
+		<lastmod>2024-03-29</lastmod>
+		<changefreq>Yearly</changefreq>
+		<priority>0.8</priority>
+	</url>
+</urlset>

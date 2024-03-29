@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>Audi World</title>
+			<link>https://xgibox.github.io/AudiWorld/index.html</link>
+			<description>Be informed about all the news that comes out on the site!</description>
+		</item>
+		<item>
+			<title>Expertise</title>
+			<link>https://xgibox.github.io/AudiWorld/expertise.html</link>
+			<description>We've changed our policy for repairing you vehicle.</description>
+		</item>
+		<item>
+			<title>Contact</title>
+			<link>https://xgibox.github.io/AudiWorld/contact.html</link>
+			<description>We got opened on our new location! Check it out!</description>
+		</item>
+		<item>
+			<title>About Us</title>
+			<link>https://xgibox.github.io/AudiWorld/about.html</link>
+			<description>We've added few novelties in our description.</description>
+		</item>
+	</channel>
+</rss>
+
+
